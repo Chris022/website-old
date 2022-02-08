@@ -1,0 +1,129 @@
+
+
+.App-Navbar{
+  background-color: #f7f7f7;
+}
+
+.App-Banner{
+  margin-top: 0%;
+  position: relative;
+  background-color: #595959;
+  height: 300px;
+  width: 100%;
+  text-align: center;
+}
+
+.App-Banner-Text1 {
+  font-size: xxx-large;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  margin: 0;
+}
+
+.App-Banner-Text2 {
+  font-size: x-large;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  margin: 0;
+}
+
+.App-Banner-Container{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  color: #f7f7f7;
+}
+
+.App-AboutMe-Container{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  color: #f7f7f7;
+}
+
+.App-AboutMe{
+  padding-top: 100px;
+  background-color: #f7f7f7;
+  height: 400px;
+  width: 100%;
+}
+
+.App-AboutMe-TextHead{
+  color: #595959;
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  margin-bottom: 10;
+}
+
+.App-AboutMe-Text{
+  color: #595959;
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  margin: 0;
+}
+
+.App-Projects{
+  padding-top: 50px;
+  height: 400px;
+}
+
+.App-Projects-Container{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  color: #f7f7f7;
+  margin-bottom: 50px;
+}
+
+.App-Projects-TextHead{
+  color: #595959;
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  margin-bottom: 10;
+}
+
+.App-Projects-TextHead2{
+  color: #595959;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  margin: 0;
+}
+
+.App-Projects-Text{
+  color: #595959;
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  margin: 0;
+}
+
+.App-Projects-Link{
+  color: #595959;
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  margin: 0;
+}
+
+
+.App-Projects-TextCenter{
+  text-align: center;
+}
+
+.App-Projects-List{
+  margin-top: 40px;
+}
+
+.App-Project-Image{
+  width: 50%;
+}
+.App-Project-Container{
+  width: 100%;
+}

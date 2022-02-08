@@ -1,0 +1,32 @@
+.Projects-TextHead{
+    color: #595959;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin-bottom: 10;
+  }
+  
+  .Projects-TextHead2{
+    color: #595959;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin-bottom: 15px;
+  }
+  
+  .Projects-Text{
+    color: #595959;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    margin: 0;
+  }
+  
+  .Projects-TextCenter{
+    text-align: center;
+  }
+  
+  .Project-Container{
+    width: 100%;
+  }
+  
